@@ -15,3 +15,9 @@ Dropbox file (170MB): https://www.dropbox.com/s/832h91oqqqijykw/climbing_tools.0
 ![](https://github.com/MarsArtistsCommunity/SuitsAndGear/blob/master/Screen%20Shot%202016-10-22%20at%2010.59.41%20PM.png)
 
 
+
+**Collection of Tools (incomplete)**
+
+Dropbox file (35MB): https://www.dropbox.com/s/po0whu1cgobqo7q/tools_collected.ma?dl=0 
+
+![](https://github.com/MarsArtistsCommunity/SuitsAndGear/blob/master/tools_collected.jpg)
