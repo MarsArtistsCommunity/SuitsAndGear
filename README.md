@@ -21,3 +21,11 @@ Dropbox file (170MB): https://www.dropbox.com/s/832h91oqqqijykw/climbing_tools.0
 Dropbox file (35MB): https://www.dropbox.com/s/po0whu1cgobqo7q/tools_collected.ma?dl=0 
 
 ![](https://github.com/MarsArtistsCommunity/SuitsAndGear/blob/master/tools_collected.jpg)
+
+
+
+**Collection of Tools More Specifically for Astronauts**
+
+Dropbox file: https://www.dropbox.com/s/avjpbjj9d61xdlo/astronaut_tools_workfile.000.ma?dl=0
+
+![](https://github.com/MarsArtistsCommunity/SuitsAndGear/blob/master/astronaut_tools_workfile.jpg)
